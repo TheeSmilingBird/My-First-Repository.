@@ -1,0 +1,21 @@
+.container{
+    width: 40%;
+        /* height: auto; */
+    margin: 100px ;
+    padding: 16px;
+    background-color: whitesmoke;
+    color: saddlebrown;
+    border-radius: 40px;
+    border-color: white;
+    background-color: rgba(0, 0, 0, 0.8);
+    box-shadow: 20px 20px 20px 0px rgba(0, 0, 0, 0.5);
+    border: 1px solid white;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    color: plum;
+}
+*{
+    box-sizing: border-box;
+}
