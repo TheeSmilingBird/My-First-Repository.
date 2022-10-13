@@ -1,7 +1,9 @@
 .container{
     width: 40%;
         /* height: auto; */
-    margin: 100px ;
+    margin-left:auto ;
+    margin-right: auto;
+    margin-top: 100px;
     padding: 16px;
     background-color: whitesmoke;
     color: saddlebrown;
@@ -10,6 +12,8 @@
     background-color: rgba(0, 0, 0, 0.8);
     box-shadow: 20px 20px 20px 0px rgba(0, 0, 0, 0.5);
     border: 1px solid white;
+    justify-content: center;
+    
 }
 h2{
     text-align: center;
