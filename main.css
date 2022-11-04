@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+}
+body{
+   
+   
+     padding: auto;
+    
+}
+.container{
+    border: 2px dashed;
+    height: 40%;
+    width: 30%;
+    margin-top: 10%; 
+    margin-left: 30%; 
+    text-align: center;
+    justify-content: center;
+  
+
+}
+span:hover{
+    color: blue;
+    cursor: pointer;
+}
+h3{
+    line-height: 2rem;
+}
+h2{
+    line-height: 3rem;
+}
+.list {
+    margin: auto 30px 10px 20px; 
+     margin-left: 50px; 
+}
+
+ul li::marker{
+    color:green;
+}
